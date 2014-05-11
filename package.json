@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Martin Wragg",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bleacon": "^0.2.0"
+  }
 }
